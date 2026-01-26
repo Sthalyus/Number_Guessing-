@@ -7,13 +7,13 @@ public class NUMBER_GUESSING {
         Scanner sc = new Scanner(System.in);
 
 
-        int number = 1 + (int)(150 * Math.random());
+        int number = 1 + (int)(100 * Math.random());
         
         
         int K = 5;
 
         System.out.println(
-            "A number is chosen between 1 and 150.");
+            "A number is chosen between 1 and 100.");
         System.out.println(
             "You have " + K
             + " attempts to guess the correct number.");
