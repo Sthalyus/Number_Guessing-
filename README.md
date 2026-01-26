@@ -31,5 +31,5 @@ You have 5 attempts to guess the correct number.
 
 ## Project Structure
 Number_Guessing/
-├── NUMBER_GUESSING.java
-└── README.md
+    * NUMBER_GUESSING.java
+    * README.md
